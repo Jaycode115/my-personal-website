@@ -1,0 +1,19 @@
+body{
+font-family: "Comic Sans MS";
+background-color: tan;
+color: teal;
+padding: 20px;
+}
+h1{
+color: green;
+margin-bottom: 30px;
+}
+h2{
+color: Yellow;
+}
+h3{
+color: pink;
+}
+a{
+color: cyan;
+}
